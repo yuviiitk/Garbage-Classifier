@@ -1,1 +1,1 @@
-# Garbage-Classifier
+# garbage-classifier
